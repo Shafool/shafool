@@ -1,6 +1,6 @@
-# Gian Orcotoma
+# ¡Hola! Soy Gian Orcotoma
 
-¡Hola! Me especializo en Ingeniería de Software con un enfoque en Inteligencia Artificial, particularmente en el área de Procesamiento de Lenguaje Natural ✨.
+ Me especializo en Ingeniería de Software con un enfoque en Inteligencia Artificial, particularmente en el área de Procesamiento de Lenguaje Natural ✨.
 
 - 📫 Contáctame en: giancaorcotoma@gmail.com
 
